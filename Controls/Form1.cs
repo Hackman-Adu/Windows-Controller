@@ -54,6 +54,7 @@ namespace Controls
         private void bunifuThinButton21_Click(object sender, EventArgs e)
         {
             Process.Start("shutdown", "/s /t 0");
+            
 
         }
 
